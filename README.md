@@ -1,7 +1,2 @@
 # Eyes
-
-This is a coding activity where you are given the ability to make eyes move around the screen just by moving your mouse around. 
-
-All you have to do is move your mouse around and the eyes will look where you direct them to. 
-
-In the future I hope to apply this for more practice in css and Javascript. 
+In this activity I got to dive into the usage of mouse events. I had to cause a set of eyes to follow my mouse around the screen. The activity was very satisfying to accomplish. In the future I would like to possibly move on to having something follow the mouse around the screen.
